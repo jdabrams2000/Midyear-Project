@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 6c9f65742f2504e9dadac652bcfa562a
+timeCreated: 1516319210
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ewan_FE8_Mage_0
+    21300002: Ewan_FE8_Mage_1
+    21300004: Ewan_FE8_Mage_2
+    21300006: Ewan_FE8_Mage_3
+    21300008: Ewan_FE8_Mage_4
+    21300010: Ewan_FE8_Mage_5
+    21300012: Ewan_FE8_Mage_6
+    21300014: Ewan_FE8_Mage_7
+    21300016: Ewan_FE8_Mage_8
+    21300018: Ewan_FE8_Mage_9
+    21300020: Ewan_FE8_Mage_10
+    21300022: Ewan_FE8_Mage_11
+    21300024: Ewan_FE8_Mage_12
+    21300026: Ewan_FE8_Mage_13
+    21300028: Ewan_FE8_Mage_14
+    21300030: Ewan_FE8_Mage_15
+    21300032: Ewan_FE8_Mage_16
+    21300034: Ewan_FE8_Mage_17
+    21300036: Ewan_FE8_Mage_18
+    21300038: Ewan_FE8_Mage_19
+    21300040: Ewan_FE8_Mage_20
+    21300042: Ewan_FE8_Mage_21
+    21300044: Ewan_FE8_Mage_22
+    21300046: Ewan_FE8_Mage_23
+    21300048: Ewan_FE8_Mage_24
+    21300050: Ewan_FE8_Mage_25
+    21300052: Ewan_FE8_Mage_26
+    21300054: Ewan_FE8_Mage_27
+    21300056: Ewan_FE8_Mage_28
+    21300058: Ewan_FE8_Mage_29
+    21300060: Ewan_FE8_Mage_30
+    21300062: Ewan_FE8_Mage_31
+    21300064: Ewan_FE8_Mage_32
+    21300066: Ewan_FE8_Mage_33
+    21300068: Ewan_FE8_Mage_34
+    21300070: Ewan_FE8_Mage_35
+    21300072: Ewan_FE8_Mage_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ewan_FE8_Mage_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 143
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 143
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 143
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 142
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 142
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 142
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 141
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 141
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 140
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 139
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 95
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 94
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 94
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 93
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 93
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 92
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 93
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 94
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 93
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 93
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_22
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 93
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 93
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 48
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 49
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 47
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 47
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 47
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 46
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ewan_FE8_Mage_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: e88176d5eef4a4a8692efc4becf27389
+timeCreated: 1516332604
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bandit_0
+    21300002: Bandit_1
+    21300004: Bandit_2
+    21300006: Bandit_3
+    21300008: Bandit_4
+    21300010: Bandit_5
+    21300012: Bandit_6
+    21300014: Bandit_7
+    21300016: Bandit_8
+    21300018: Bandit_9
+    21300020: Bandit_10
+    21300022: Bandit_11
+    21300024: Bandit_12
+    21300026: Bandit_13
+    21300028: Bandit_14
+    21300030: Bandit_15
+    21300032: Bandit_16
+    21300034: Bandit_17
+    21300036: Bandit_18
+    21300038: Bandit_19
+    21300040: Bandit_20
+    21300042: Bandit_21
+    21300044: Bandit_22
+    21300046: Bandit_23
+    21300048: Bandit_24
+    21300050: Bandit_25
+    21300052: Bandit_26
+    21300054: Bandit_27
+    21300056: Bandit_28
+    21300058: Bandit_29
+    21300060: Bandit_30
+    21300062: Bandit_31
+    21300064: Bandit_32
+    21300066: Bandit_33
+    21300068: Bandit_34
+    21300070: Bandit_35
+    21300072: Bandit_36
+    21300074: Bandit_37
+    21300076: Bandit_38
+    21300078: Bandit_39
+    21300080: Bandit_40
+    21300082: Bandit_41
+    21300084: Bandit_42
+    21300086: Bandit_43
+    21300088: Bandit_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bandit_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 296
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 290
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 247
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 239
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 273
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 272
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 271
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 226
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 241
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 230
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_12
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 241
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 243
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 191
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 237
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 234
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 227
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 189
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 189
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 191
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 184
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 182
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 173
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 166
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 167
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 166
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 184
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 134
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 133
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 131
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 162
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 109
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 136
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 126
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 124
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 85
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 84
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 83
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

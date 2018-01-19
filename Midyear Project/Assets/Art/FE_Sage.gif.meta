@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: f23bdc7360ef84a74be5d6cf0dddb72b
+timeCreated: 1516317831
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FE_Sage_0
+    21300002: FE_Sage_1
+    21300004: FE_Sage_2
+    21300006: FE_Sage_3
+    21300008: FE_Sage_4
+    21300010: FE_Sage_5
+    21300012: FE_Sage_6
+    21300014: FE_Sage_7
+    21300016: FE_Sage_8
+    21300018: FE_Sage_9
+    21300020: FE_Sage_10
+    21300022: FE_Sage_11
+    21300024: FE_Sage_12
+    21300026: FE_Sage_13
+    21300028: FE_Sage_14
+    21300030: FE_Sage_15
+    21300032: FE_Sage_16
+    21300034: FE_Sage_17
+    21300036: FE_Sage_18
+    21300038: FE_Sage_19
+    21300040: FE_Sage_20
+    21300042: FE_Sage_21
+    21300044: FE_Sage_22
+    21300046: FE_Sage_23
+    21300048: FE_Sage_24
+    21300050: FE_Sage_25
+    21300052: FE_Sage_26
+    21300054: FE_Sage_27
+    21300056: FE_Sage_28
+    21300058: FE_Sage_29
+    21300060: FE_Sage_30
+    21300062: FE_Sage_31
+    21300064: FE_Sage_32
+    21300066: FE_Sage_33
+    21300068: FE_Sage_34
+    21300070: FE_Sage_35
+    21300072: FE_Sage_36
+    21300074: FE_Sage_37
+    21300076: FE_Sage_38
+    21300078: FE_Sage_39
+    21300080: FE_Sage_40
+    21300082: FE_Sage_41
+    21300084: FE_Sage_42
+    21300086: FE_Sage_43
+    21300088: FE_Sage_44
+    21300090: FE_Sage_45
+    21300092: FE_Sage_46
+    21300094: FE_Sage_47
+    21300096: FE_Sage_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FE_Sage_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 178
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 178
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 179
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 179
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 180
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 180
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 180
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 180
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 179
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 178
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 178
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 135
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 133
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 132
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 132
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 133
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 134
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 135
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 136
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 137
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 137
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 138
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_24
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 138
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 138
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 90
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 91
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 93
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 92
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_31
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 94
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 94
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 94
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 94
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 94
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 95
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_38
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 95
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 95
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 46
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 49
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 49
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 50
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_47
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 6
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FE_Sage_48
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 9
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
